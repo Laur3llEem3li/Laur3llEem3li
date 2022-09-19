@@ -16,14 +16,26 @@
 
 I made a script for a popular mmorpg called Growtopia, that automatically logs in multiple accounts and starts farming and breaking blocks automatically, not a hard project just a base I made so that in the future if I want to automate anything in the game I can do it.
 
-Simple kernel based bunnyhop cheat for the game called cs:go which is undetected by vac(valve anticheat)
+Simple kernel based bunnyhop cheat for the game called cs:go which is undetected by vac(valve anticheat)❗
+
+## Goals
+
+- Getting into the working world in IT.
+- Finishing up my school.
+- To keep learning.
 
 ## Best feat
 My best feat so far in my opinion has to be being able to replicate an exploit that was found in a game called Escape from tarkov where u would make a shader in unity and replacing a shader in the game files and matching the game file size to avoid detection by Eac giving u wallhacks.
 
 ## Overall
-Overall I am ready to learn and a fast learner so if u give me the chance to work with you and your company I will make it worth ur time.
+Overall I am well versed in the IT world and have alot of basic knowledge in IT. 
+I am a fast learner and ready to put my own time into learning something new.
 
-Thank u for taking the time to read my about section. 💜
+If you give me the chance to work with you and your company I will make it worth your time.
+
+Thank you for taking the time to read my about section. 💜
+
+
+
 
 
