@@ -1,16 +1,38 @@
-### Hi there 👋
+###
+$$\   $$\           $$\ $$\           
+$$ |  $$ |          $$ |$$ |          
+$$ |  $$ | $$$$$$\  $$ |$$ | $$$$$$\  
+$$$$$$$$ |$$  __$$\ $$ |$$ |$$  __$$\ 
+$$  __$$ |$$$$$$$$ |$$ |$$ |$$ /  $$ |
+$$ |  $$ |$$   ____|$$ |$$ |$$ |  $$ |
+$$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |
+\__|  \__| \_______|\__|\__| \______/  and Welcome to my profile! 😁
 
-<!--
-**Laur3llEem3li/Laur3llEem3li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Eemeli Laurell and I am a finnish student interested in IT 
+and programming and whatever comes with computers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have been working on learning C++ and working with memory.
+Lately I have been using my time learning IT security and learning exploits and how to do them.
+
+I have a pretty broad understanding of computers I have done alot from video editing, photo editing, making simple games and trainers for games. I also know simple Assembly and simple reverse engineering, but constantly trying to learn more!
+
+I know how to do simple diagnostics on computers so if it occurs that a customer or a co-worker needs help with their pc I can most likely help.
+
+My best feat so far in my opinion has to be being able to replicate an exploit that was found in a game called Escape from tarkov where u would make a shader in unity and replacing a shader in the game files and matching the game file size to avoid detection by Eac giving u wallhacks.
+
+Overall I am ready to learn and a fast learner so if u give me the chance to work with you and your company I will make it worth ur time.
+
+Thank U for taking the time to read my about section.
+
+
+ ________  __                        ________                  __ 
+|        \|  \                      |        \                |  \
+ \$$$$$$$$| $$____    ______        | $$$$$$$$ _______    ____| $$
+   | $$   | $$    \  /      \       | $$__    |       \  /      $$
+   | $$   | $$$$$$$\|  $$$$$$\      | $$  \   | $$$$$$$\|  $$$$$$$
+   | $$   | $$  | $$| $$    $$      | $$$$$   | $$  | $$| $$  | $$
+   | $$   | $$  | $$| $$$$$$$$      | $$_____ | $$  | $$| $$__| $$
+   | $$   | $$  | $$ \$$     \      | $$     \| $$  | $$ \$$    $$
+    \$$    \$$   \$$  \$$$$$$$       \$$$$$$$$ \$$   \$$  \$$$$$$$
+
