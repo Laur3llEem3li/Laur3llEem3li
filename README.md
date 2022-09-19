@@ -5,7 +5,7 @@
 ### My name is Eemeli Laurell and I am a finnish student interested in IT and programming and whatever comes with computers.
 
 📖 I have been learning C++ and working with memory.
-recently I have been using free my time learning IT security and learning exploits and how to do them and       getting to know the linux workspace.😮
+Recently I have been using free my time learning IT security and learning exploits and how to do them and       getting to know the linux workspace.😮
 
 ## Skills
  ✅ I have a pretty broad understanding of computers I have done alot from video editing, photo editing, making simple games and trainers for games. I also know simple Assembly and simple reverse engineering, but constantly trying to learn more!
