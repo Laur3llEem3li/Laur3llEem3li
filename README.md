@@ -1,5 +1,5 @@
 ![dd](https://user-images.githubusercontent.com/113902787/191013493-a04389d7-95b5-4990-a847-ad2a9320ec4c.png)
-and Welcome to my profile! 😁
+# and Welcome to my profile! 😁
 
 
 My name is Eemeli Laurell and I am a finnish student interested in IT 
@@ -17,13 +17,3 @@ My best feat so far in my opinion has to be being able to replicate an exploit t
 Overall I am ready to learn and a fast learner so if u give me the chance to work with you and your company I will make it worth ur time.
 
 Thank U for taking the time to read my about section.
-
-  _______ _            ______           _ 
- |__   __| |          |  ____|         | |
-    | |  | |__   ___  | |__   _ __   __| |
-    | |  | '_ \ / _ \ |  __| | '_ \ / _` |
-    | |  | | | |  __/ | |____| | | | (_| |
-    |_|  |_| |_|\___| |______|_| |_|\__,_|
-                                          
-
-
