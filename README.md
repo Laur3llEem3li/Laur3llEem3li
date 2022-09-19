@@ -1,12 +1,5 @@
-###
-<sup>$$\   $$\           $$\ $$\           
-$$ |  $$ |          $$ |$$ |          
-$$ |  $$ | $$$$$$\  $$ |$$ | $$$$$$\  
-$$$$$$$$ |$$  __$$\ $$ |$$ |$$  __$$\ 
-$$  __$$ |$$$$$$$$ |$$ |$$ |$$ /  $$ |
-$$ |  $$ |$$   ____|$$ |$$ |$$ |  $$ |
-$$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |
-\__|  \__| \_______|\__|\__| \______/ </sup> and Welcome to my profile! 😁
+![dd](https://user-images.githubusercontent.com/113902787/191013493-a04389d7-95b5-4990-a847-ad2a9320ec4c.png)
+and Welcome to my profile! 😁
 
 
 My name is Eemeli Laurell and I am a finnish student interested in IT 
