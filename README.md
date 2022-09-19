@@ -12,7 +12,7 @@ Recently I have been using free my time learning IT security and learning exploi
 
 💻 I know how to do simple diagnostics on computers so if it occurs that a customer or a co-worker needs help with   their pc I can most likely help.
 
-## My latest projects
+## My latest projects✏
 
 I made a script for a popular mmorpg called Growtopia, that automatically logs in multiple accounts and starts farming and breaking blocks automatically, not a hard project just a base I made so that in the future if I want to automate anything in the game I can do it.
 
