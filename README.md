@@ -12,7 +12,7 @@ Recently I have been using free my time learning IT security and learning exploi
 
 💻 I know how to do diagnostics on computers so if it occurs that a customer or a co-worker needs help with   their pc I can most likely help.
 
-⌨ Simple programming in C++
+⌨ Programming in C++
 
 ## My latest projects✏
 
